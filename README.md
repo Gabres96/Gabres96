@@ -42,7 +42,7 @@ Atualmente curso **Análise e Desenvolvimento de Sistemas** e busco me especiali
 
 ### 🚀 Experiência Profissional
 
-**EBANX – Engenheiro de Software (Core Banking)**  
+**EBANX – Desenvolvedor Java (Core Banking)**  
 <sub>set/2023 – set/2025 | Curitiba - PR</sub>  
 Desenvolvimento e manutenção de soluções financeiras críticas (**PIX Automático, Open Finance, transferências via PIX**).  
 Atuação em **Java + Spring Boot**, **Hibernate**, **MySQL**, e automação de pipelines com **CI/CD**.  
