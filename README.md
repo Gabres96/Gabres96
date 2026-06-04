@@ -5,7 +5,7 @@ README de Perfil GitHub - Gabriel Elias
 <h1 align="center">👋 Olá, eu sou o Gabriel Elias</h1>
 
 <p align="center">
-  💻 Engenheiro de Software Backend | ☕ Java & Spring Boot | 🚀 Foco em APIs REST e boas práticas
+  💻 Desenvolvedor Backend Java| ☕ Java & Spring Boot | 🚀 Foco em APIs REST e boas práticas
 </p>
 
 ---
