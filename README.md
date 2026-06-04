@@ -12,7 +12,7 @@ README de Perfil GitHub - Gabriel Elias
 
 ### 👨‍💻 Sobre mim
 
-Sou **Engenheiro de Software Backend** com experiência em **Java, Spring Boot, Hibernate, JPA e MySQL**, atuando no desenvolvimento de **soluções financeiras críticas** como PIX Automático, Open Finance e integrações bancárias.  
+Sou **Desenvolvedor backend** com experiência em **Java, Spring Boot, Hibernate, JPA e MySQL**, atuando no desenvolvimento de **soluções financeiras críticas** como PIX Automático, Open Finance e integrações bancárias.  
 Tenho forte foco em **clean code**, **arquitetura escalável** e automação com **CI/CD**.
 
 Atualmente curso **Análise e Desenvolvimento de Sistemas** e busco me especializar cada vez mais no ecossistema Java, visando atuar em **projetos globais** e ambientes de alta performance.
